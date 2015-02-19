@@ -1,7 +1,7 @@
 	<?php
 	//line 94
 	/***Bengtson-Fu!!!   13 3 |\| ( ][ 5 () |\| - |= |_|!!! 
-	created by Jason Bengtson, MLIS, MA : Available under MIT open source license****/
+	created by Jason Bengtson, MLIS, MA : Available under a creative commons noncommercial, attribution, share-alike license****/
 	
 	/*this script does some find and replace*/
 	

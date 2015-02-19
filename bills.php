@@ -1,6 +1,6 @@
 	<?php
 	/***Bengtson-Fu!!!   13 3 |\| ( ][ 5 () |\| - |= |_|!!! 
-	created by Jason Bengtson, MLIS, MA : Available under MIT open source license****/
+	created by Jason Bengtson, MLIS, MA : Available under a creative commons noncommercial, attribution, share-alike license****/
 	
 	/*this script does basic find and replace on fields in sirsi falt bills file to marriage the fields up with expected defaults in Alma. Only one field name needed changing. We don't capture payment info in sirsi, so that can be ignored*/
 	

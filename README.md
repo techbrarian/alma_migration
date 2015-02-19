@@ -7,3 +7,5 @@ scripts must be run in a particular order. The bibs script needs the processed h
 the same folder when it runs (it requires info from and makes modifications to those files). The users.php script
 requires that the processed charges file be in the same folder when it runs. That script produces multiple files and
 will require various levels of local tweakage, so look it over closely. 
+
+The scripts are designed to run on UTF-8 flat and MARC files as appropriate.The MARC records need to be converted to .mrk files (mnemonic marc) for the scripts to work. They need to be converted back to .mrc for upload.

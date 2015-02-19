@@ -1,6 +1,6 @@
   <?php
   /***Bengtson-Fu!!!   13 3 |\| ( ][ 5 () |\| - |= |_|!!! 
-  created by Jason Bengtson, MLIS, MA : Available under MIT open source license****/
+  created by Jason Bengtson, MLIS, MA : Available under a creative commons noncommercial, attribution, share-alike license****/
   
   /*this script adds a v subfield to the 999 feild of marc records. Designed for cases in which the volume info is in the call # but not in a separate subfield. Must be run on a .mrk file; will not work on an .mrc file. Does not check for duplicate $v subfields at this time (I may add this in the future)*/
   
